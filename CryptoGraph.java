@@ -1,7 +1,7 @@
 /* Arbitrage Cryptocurrency Graph Structure
  * Copyright 2018 Joshua Newhouse
  *
- * This code is licenced under the GPL.
+ * This code is licenced under the GPL version 3.
  */
 
 import java.util.ArrayList;

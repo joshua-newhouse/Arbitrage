@@ -1,7 +1,7 @@
 /* Arbitrage Crypto Coin Data
  * Copyright 2018 Joshua Newhouse
  *
- * This code is licenced under the GPL.
+ * This code is licenced under the GPL version 3.
  */
 
 public class Coins {
