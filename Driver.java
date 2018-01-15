@@ -12,7 +12,7 @@ public class Driver {
 		ExchangeRate[] rates1 = {
 			new ExchangeRate("trx", "btc", 0.00000819, 0.00000824),
 			new ExchangeRate("trx", "eth", 0.00009, 0.00009049),
-			new ExchangeRate("eth", "btc", 0.091995, 0.09217)
+			new ExchangeRate("eth", "btc", 0.091995, 0.09217),
 			new ExchangeRate("icx", "btc", 5.105E-4, 5.154E-4),
 			new ExchangeRate("icx", "bnb", 0.83, 0.835)
 		};
